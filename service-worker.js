@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MidsouthConcrete/precache-manifest.02dc8f9ed383ddd218c0cab13a1532f0.js"
+  "/MidsouthConcrete/precache-manifest.9b51d60cbac1eab33de5d7a636b1b834.js"
 );
 
 self.addEventListener('message', (event) => {
